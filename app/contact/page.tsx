@@ -13,9 +13,9 @@ const socials = [
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:ask@yayianailab.tech",
+		href: "mailto:ask@yayinailab.tech",
 		label: "Email",
-		handle: "ask@yayianailab.tech",
+		handle: "ask@yayinailab.tech",
 	},
 	{
 		icon: <Github size={20} />,

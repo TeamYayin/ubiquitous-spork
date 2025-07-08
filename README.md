@@ -22,4 +22,4 @@ In `tailwind.config.js` add custom colors and later in `app/layout.tsx` change t
 
 ## Changing Featured and Top Projects
 
-In `app/projects/page.tsx` change constants `featured`, `top1`, and `top2`.
+In `app/projects/page.tsx` change constants `featured`, `top2`, and `top3`.

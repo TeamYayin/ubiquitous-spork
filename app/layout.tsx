@@ -6,13 +6,13 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "yayinailab.cc",
+    default: "Yayin AI Lab",
     template: "%s | yayinailab.cc",
   },
   description:
     "Yayin AI Lab, IT Services, Software Development, Design products and more",
   openGraph: {
-    title: "yayinailab.cc",
+    title: "Yayin AI Lab",
     description:
       "Yayin AI Lab, IT Services, Software Development, Design products and more",
     url: "https://portfolio.yayinailab.cc",

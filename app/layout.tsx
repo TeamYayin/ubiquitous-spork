@@ -6,20 +6,20 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "yayinailab.tech",
-    template: "%s | yayinailab.tech",
+    default: "yayinailab.cc",
+    template: "%s | yayinailab.cc",
   },
   description:
     "Yayin AI Lab, IT Services, Software Development, Design products and more",
   openGraph: {
-    title: "yayinailab.tech",
+    title: "yayinailab.cc",
     description:
       "Yayin AI Lab, IT Services, Software Development, Design products and more",
-    url: "https://portfolio.yayinailab.tech",
-    siteName: "yayinailab.tech",
+    url: "https://portfolio.yayinailab.cc",
+    siteName: "yayinailab.cc",
     images: [
       {
-        url: "https://yayinailab.tech/images/website-icon.png",
+        url: "https://yayinailab.cc/images/website-icon.png",
         width: 1920,
         height: 1080,
       },

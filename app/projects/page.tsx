@@ -21,7 +21,7 @@ export default async function ProjectsPage() {
   }, {} as Record<string, number>);
 
   const featured = allProjects.find((project) => project.slug === "iocl")!;
-  const top2 = allProjects.find((project) => project.slug === "cbit")!;
+  const top2 = allProjects.find((project) => project.slug === "vardhaman")!;
   const top3 = allProjects.find(
     (project) => project.slug === "wall-bee-infra"
   )!;
@@ -48,7 +48,9 @@ export default async function ProjectsPage() {
             Projects
           </h2>
           <p className="mt-4 text-zinc-400">
-            List of the projects developed by our team members at Yayin AI Lab.
+            A showcase of solutions and products developed by our team at Yayin
+            AI Lab, highlighting our capabilities in building practical,
+            scalable, and innovative tools for real-world needs.
           </p>
         </div>
         <div className="w-full h-px bg-zinc-800" />
